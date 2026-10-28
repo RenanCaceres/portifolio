@@ -406,7 +406,7 @@
 📍 Cornélio Procópio, PR — Brasil
 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas @ UTFPR (2025–Presente)
 🎓 Engenharia de Computação @ UTFPR (2022–2025)
-🛡️ Tech Lead & Presidência no CyberGuard UTFPR
+🛡️ Diretor de RH & Criador do CyberGuard Bot no CyberGuard UTFPR
 💡 Foco: Engenharia Backend, Sistemas Full Stack, Apps Mobile (React Native), PostgreSQL & IA Generativa.`
           );
           break;
