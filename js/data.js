@@ -34,7 +34,7 @@ window.PORTFOLIO_DATA = {
         greeting: "Engenharia de Software, Backend & Sistemas Inteligentes",
         roles: [
           "Full Stack & Backend Developer (Node.js, React, PostgreSQL)",
-          "Tech Lead & Presidente @ CyberGuard UTFPR",
+          "Criador do CyberGuard Bot & Diretor de RH @ CyberGuard UTFPR",
           "Arquitetura de APIs REST, IA Generativa (Gemini) & Automação",
           "Estudante de Análise e Desenvolvimento de Sistemas @ UTFPR"
         ],
@@ -116,7 +116,7 @@ window.PORTFOLIO_DATA = {
         greeting: "Software Engineering, Backend & Intelligent Systems",
         roles: [
           "Full Stack & Backend Developer (Node.js, React, PostgreSQL)",
-          "Tech Lead & President @ CyberGuard UTFPR",
+          "Creator of CyberGuard Bot & HR Director @ CyberGuard UTFPR",
           "REST APIs, Generative AI (Gemini) & Cloud Automation",
           "Systems Analysis & Development Student @ UTFPR"
         ],
@@ -761,11 +761,11 @@ window.PORTFOLIO_DATA = {
     {
       periodPt: "2025 — Presente",
       periodEn: "2025 — Present",
-      rolePt: "Tech Lead & Presidência — Plataforma CyberGuard Bot",
-      roleEn: "Tech Lead & President — CyberGuard Bot Platform",
+      rolePt: "Diretor de RH & Desenvolvedor do CyberGuard Bot",
+      roleEn: "HR Director & Developer of CyberGuard Bot",
       org: "CyberGuard UTFPR — Observatório de Segurança Cibernética & Extensão",
-      descPt: "Liderança técnica e arquitetura do ecossistema de automação institucional do CyberGuard UTFPR. Implementação de ponto eletrônico integrado ao Notion/Google Sheets, onboarding em conformidade com a LGPD (AES-256-GCM), validação criptográfica de documentos assinados via Gov.br e geração de atas de reunião com IA (Gemini 2.5 Flash).",
-      descEn: "Technical leadership and architecture of CyberGuard UTFPR's institutional automation ecosystem. Engineered voice time-tracking synced with Notion/Google Sheets, LGPD-compliant onboarding (AES-256-GCM), Gov.br digital signature verification, and Gemini 2.5 Flash meeting transcription."
+      descPt: "Direção de Recursos Humanos e desenvolvimento completo da plataforma de automação institucional do CyberGuard UTFPR. Implementação de ponto eletrônico integrado ao Notion/Google Sheets, onboarding automatizado em conformidade com a LGPD (AES-256-GCM), validação criptográfica de documentos assinados via Gov.br e geração de atas de reunião com IA (Gemini 2.5 Flash).",
+      descEn: "Human Resources Director and lead developer of CyberGuard UTFPR's institutional automation platform. Engineered voice time-tracking synced with Notion/Google Sheets, LGPD-compliant onboarding (AES-256-GCM), Gov.br digital signature verification, and Gemini 2.5 Flash meeting transcription."
     },
     {
       periodPt: "2026 — Presente",
